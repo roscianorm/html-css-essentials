@@ -1,0 +1,13 @@
+body,
+a {
+  /* Hexadecimal normal, los colores hexadecimal se definen con grupos de numeros(16) que van desde el 0 al 15(f). Se utilizan letras para representar los numeros a partir del 10, siendo 10 a, 11 b, 12 c, 13 d, 14 e, 15 f.*/
+  color: #212121;
+  /* Hexadecimal con opacidad */
+  /* color: #212121ff; */
+  /* RGB normal (red,green,blue) */
+  /* color: rgb(0, 0, 0); */
+  /* RGB con opacidad (red,green,blue,opacity) */
+  /* color: rgba(0, 0, 0, .5); */
+  /* HSLA con opacidad (hue,saturation,lightness) */
+  /* color: hsla(0%, 0%, 0%, 1); */
+}
